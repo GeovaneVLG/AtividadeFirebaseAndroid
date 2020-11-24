@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AVA 3</string>
+    <string name="titulo">Epsa</string>
+    <string name="txtUsuario">Usuário</string>
+    <string name="txtSenha">Senha</string>
+    <string name="btnEntrar">ENTRAR</string>
+    <string name="btnLimpar">LIMPAR</string>
+    <string name="txtCadastrese">Cadastre-se</string>
+    <string name="txtConfirmaSenha">Confirme a Senha</string>
+    <string name="txtCurso">Curso</string>
+    <string name="txtTurno">Turno</string>
+    <string name="txtCadastrar">CADASTRAR</string>
+    <string name="grupo">GEOVANE / LUCAS / DAVIDSON / LEONARDO / WANDERSON</string>
+</resources>

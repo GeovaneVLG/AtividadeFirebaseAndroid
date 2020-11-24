@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "444535298473",
+    "firebase_url": "https://epsaava.firebaseio.com",
+    "project_id": "epsaava",
+    "storage_bucket": "epsaava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:444535298473:android:8ff826710a1f9067d00cb8",
+        "android_client_info": {
+          "package_name": "com.example.epsa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "444535298473-pmjbes8q1t4l00e8u8bca2o97vk5fnb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjuFSqJYzV4uQ1EQFjNnXPdQMacW6qVGc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "444535298473-pmjbes8q1t4l00e8u8bca2o97vk5fnb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
